@@ -6,7 +6,7 @@ const adminNavigation = [
   { url: "/admin/products-list", text: "Listado Productos", blank: false },
   { url: "/admin/orders-in-process", text: "Pedidos Recibidos", blank: false },
   { url: "/admin/orders-ready", text: "Pedidos Listos", blank: false },
-  { url: "/order/cafes", text: "Ver Kiosco", blank: true },
+  { url: "/order/cafeteria", text: "Ver Kiosco", blank: true },
 ];
 
 const AdminSidebar = () => {

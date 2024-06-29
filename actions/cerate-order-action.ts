@@ -16,7 +16,7 @@ const createOrder = async (data: unknown) => {
     await prisma.order.create({
       data: {
         name: result.data.name,
-        phone: result.data.phone,
+        table: result.data.table,
         total: result.data.totalOrder,
         orderProducts: {
           create: result.data.order.map((product) => ({

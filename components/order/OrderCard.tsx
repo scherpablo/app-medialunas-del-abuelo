@@ -13,16 +13,16 @@ const OrderCard = ({ order }: OrderCardProps) => {
         aria-labelledby="summary-heading"
         className="mt-16 rounded-lg bg-gray-50 px-4 py-6 sm:p-6  lg:mt-0 lg:p-8 space-y-4 shadow-lg"
       >
-        <p className="text-2xl font-black text-indigo-600">
+        <p className="text-2xl font-black text-amber-800">
           Cliente:{" "}
           <span className="font-semibold italic text-black text-xl">
             {order.name}
           </span>
         </p>
-        <p className="text-2xl font-black text-indigo-600">
-          Teléfono:{" "}
+        <p className="text-2xl font-black text-amber-800">
+          Mesa:{" "}
           <span className="font-semibold italic text-black text-xl">
-            {order.phone}
+            {order.table}
           </span>
         </p>
         <p className="text-lg font-black uppercase">
@@ -52,7 +52,7 @@ const OrderCard = ({ order }: OrderCardProps) => {
           <input type="hidden" value={order.id} name="order-id" />
           <input
             type="submit"
-            className="bg-indigo-600 hover:bg-indigo-800 text-white w-full mt-5 p-3 uppercase font-bold cursor-pointer rounded-lg"
+            className="bg-amber-800 hover:bg-amber-900 text-white w-full mt-5 p-3 uppercase font-bold cursor-pointer rounded-lg"
             value="Marcar Orden Completada"
           />
         </form>

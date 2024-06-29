@@ -13,7 +13,7 @@ import Heading from "../ui/Heading";
 const OrderSummary = () => {
   const [formData, setFormData] = useState({
     name: "",
-    phone: "",
+    table: "",
   });
   const order = useStore((state) => state.order);
   const clearOrder = useStore((state) => state.clearOrder);
@@ -25,7 +25,7 @@ const OrderSummary = () => {
   const handleCreateOrder = async (formData: FormData) => {
     const data = {
       name: formData.get("name"),
-      phone: formData.get("phone"),
+      table: formData.get("table"),
       totalOrder,
       order,
     };
@@ -46,7 +46,7 @@ const OrderSummary = () => {
     } else {
       toast.success("Pedido realizado correctamente");
       clearOrder();
-      setFormData({ name: "", phone: "" });
+      setFormData({ name: "", table: "" });
     }
   };
 
@@ -74,7 +74,7 @@ const OrderSummary = () => {
 
       <p className="text-2xl font-bold mt-10 text-center">
         Total a pagar:{" "}
-        <span className="text-indigo-700 font-black">
+        <span className="text-amber-800 font-black">
           {formatCurrency(totalOrder)}
         </span>
       </p>
@@ -89,11 +89,11 @@ const OrderSummary = () => {
           className="p-2 border rounded-lg w-full"
         />
         <input
-          type="number"
-          name="phone"
-          value={formData.phone}
+          type="text"
+          name="table"
+          value={formData.table}
           onChange={handleChange}
-          placeholder="Tu telefóno"
+          placeholder="Tu mesa"
           className="p-2 border rounded-lg w-full"
         />
 

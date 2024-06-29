@@ -33,7 +33,7 @@ const FormProductSearch = () => {
         <input
           type="submit"
           value={"buscar"}
-          className="bg-indigo-600 p-3 rounded-r-lg uppercase text-white cursor-pointer font-bold hover:bg-indigo-800"
+          className="bg-amber-800 p-3 rounded-r-lg uppercase text-white cursor-pointer font-bold hover:bg-indigo-800"
         />
       </form>
     </>

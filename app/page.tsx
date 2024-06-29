@@ -20,7 +20,7 @@ export default function Home() {
             <Link
               href={link.url}
               key={link.url}
-              className="font-bold bg-amber-400 p-3 rounded-lg text-center uppercase hover:bg-amber-500"
+              className="font-bold bg-amber-500 p-3 rounded-lg text-center uppercase hover:bg-amber-600"
             >
               {link.text}
             </Link>
