@@ -3,7 +3,7 @@ import Logo from "@/components/ui/Logo";
 import FormLoginAdmin from "@/components/ui/FormLoginAdmin";
 
 const adminNavigation = [
-  { url: "/order/cafes", text: "Ingreso Clientes", blank: true },
+  { url: "/order/cafeteria", text: "Ingreso Clientes", blank: true },
 ];
 
 export default function Home() {

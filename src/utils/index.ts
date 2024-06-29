@@ -8,6 +8,7 @@ const formatCurrency = (amount: number) => {
 const getImagePath = (imagePath: string) => {
   const cloudinaryBaseUrl = "https://res.cloudinary.com";
   const publicBaseUrl = `/products/${imagePath}.jpg`;
+  // const publicBaseUrl = `/products/${imagePath}.png`;
 
   if (imagePath.startsWith(cloudinaryBaseUrl)) {
     return imagePath;

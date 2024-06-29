@@ -66,7 +66,7 @@ const FormLoginAdmin = () => {
           <button
             type="submit"
             className="w-full inline-flex items-center justify-center px-4 py-3 border border-transparent rounded-md shadow-sm text-base 
-                  font-bold text-white bg-indigo-600 hover:bg-indigo-800 uppercase"
+                  font-bold text-white bg-amber-800 hover:bg-amber-900 uppercase"
           >
             Iniciar sesión
           </button>
