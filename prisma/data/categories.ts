@@ -26,8 +26,8 @@
 // ]
 
 export const categories = [
-      {
-        slug: "cafes",
-        name: "Cafés"
-      },
+      // {
+      //   slug: "cafes",
+      //   name: "Cafés"
+      // },
 ]

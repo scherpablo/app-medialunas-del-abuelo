@@ -357,9 +357,9 @@
 
 export const products = [
       {
-        name: "Café Caramel con Chocolate",
-        price: 59.9,
-        image: "cafe_01",
+        name: "Café Caramel",
+        price: 95.9,
+        image: "",
         categoryId: 1
       }
 ]
