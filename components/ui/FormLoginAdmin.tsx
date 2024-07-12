@@ -46,7 +46,8 @@ const FormLoginAdmin = () => {
             value={username}
             onChange={(e) => setUsername(e.target.value)}
             placeholder="tu usuario aqui"
-            className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md p-3"
+            className="mt-1 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md p-3"
+            // className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md p-3"
           />
         </div>
         <div className="mt-4">
@@ -59,7 +60,8 @@ const FormLoginAdmin = () => {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             placeholder="******"
-            className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md p-3"
+            className="mt-1 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md p-3"
+            // className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md p-3"
           />
         </div>
         <div className="mt-6">

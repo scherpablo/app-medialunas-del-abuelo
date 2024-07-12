@@ -23,7 +23,7 @@ const CategoryIcon = ({ category }: CategoryIconProps) => {
           <div className="w-16 h-16 relative">
             <Image
               fill
-              src={`/categories/icon_${category.slug}.svg`}
+              src={`/categories/icon_${category.slug}.png`}
               alt="Imagen Categoria"
             />
           </div>

@@ -41,7 +41,7 @@ const FormAddProduct = ({ children }: { children: React.ReactNode }) => {
           <input
             type="submit"
             value="agregar producto"
-            className="bg-indigo-600 hover:bg-indigo-800 uppercase text-white w-full p-3 rounded-lg font-bold cursor-pointer mt-5"
+            className="bg-amber-800 hover:bg-amber-900 uppercase text-white w-full p-3 rounded-lg font-bold cursor-pointer mt-5"
           />
         </form>
       </div>
