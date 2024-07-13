@@ -2,31 +2,43 @@ export const products = [
       {
         name: "Ades Naranja",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877957/MedialunasDelAbuelo/productos/ades_naranja_cf8emk.jpg",
         categoryId: 1
       },
       {
         name: "Agua Benedicto S/Gas",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877957/MedialunasDelAbuelo/productos/benedicto_sin_gas_b4wdbu.jpg",
         categoryId: 1
       },
       {
         name: "Agua Benedicto C/Gas",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877957/MedialunasDelAbuelo/productos/benedicto_con_gas_e8kezt.jpg",
         categoryId: 1
       },
       {
-        name: "Agua Bonaqua",
+        name: "Agua Bonaqua S/Gas",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877283/MedialunasDelAbuelo/productos/bonaqua_sin_gas-100_vyrzia.jpg",
+        categoryId: 1
+      },
+      {
+        name: "Agua Bonaqua C/Gas",
+        price: 1480,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877443/MedialunasDelAbuelo/productos/bonaqua_con_gas-100_r5anv2.jpg",
+        categoryId: 1
+      },
+      {
+        name: "Agua Kin S/Gas",
+        price: 1480,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877590/MedialunasDelAbuelo/productos/kin_sin_gas-100_iegjum.jpg",
         categoryId: 1
       },
       {
         name: "Agua Kin C/Gas",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877283/MedialunasDelAbuelo/productos/bonaqua_sin_gas-100_vyrzia.jpg",
         categoryId: 1
       },
       {
