@@ -42,9 +42,9 @@ export const products = [
         categoryId: 1
       },
       {
-        name: "Agua Smart",
+        name: "Agua Smart S/Gas",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720878609/MedialunasDelAbuelo/productos/smart_sin_gas-100_bycvmp.jpg",
         categoryId: 1
       },
       {
