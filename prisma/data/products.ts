@@ -2,7 +2,7 @@ export const products = [
       {
         name: "Ades Naranja",
         price: 1480,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877957/MedialunasDelAbuelo/productos/ades_naranja_cf8emk.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720879029/MedialunasDelAbuelo/productos/ades_naranja_200ml-100_wpk0da.jpg",
         categoryId: 1
       },
       {
