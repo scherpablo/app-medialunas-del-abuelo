@@ -38,7 +38,7 @@ export const products = [
       {
         name: "Agua Kin C/Gas",
         price: 1480,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877283/MedialunasDelAbuelo/productos/bonaqua_sin_gas-100_vyrzia.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1720877689/MedialunasDelAbuelo/productos/kin_con_gas-100_nsmifn.jpg",
         categoryId: 1
       },
       {
@@ -48,189 +48,195 @@ export const products = [
         categoryId: 1
       },
       {
-        name: "Baggio x 1",
-        price: 1480,
-        image: "bebidas_01",
+        name: "Baggio Manzana 125ml",
+        price: 1180,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721161742/MedialunasDelAbuelo/productos/baggio-manzana-125ml-100_vbpq7x.jpg",
         categoryId: 1
       },
       {
-        name: "Baggio x 2",
-        price: 1480,
-        image: "bebidas_01",
+        name: "Baggio Multifruta 125ml",
+        price: 1280,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721161742/MedialunasDelAbuelo/productos/baggio-multifruta-125ml-100_ne2xel.jpg",
         categoryId: 1
       },
       {
-        name: "Cepita Botellita",
+        name: "Baggio Naranja 125ml",
+        price: 1380,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721161742/MedialunasDelAbuelo/productos/baggio-naranja-125ml-100_e4wiwl.jpg",
+        categoryId: 1
+      },
+      {
+        name: "Cepita Botella 300ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721162538/MedialunasDelAbuelo/productos/cepita-naranja-botella300ml-100_xcecgi.jpg",
         categoryId: 1
       },
       {
         name: "Cepita Manzana",
-        price: 1480,
-        image: "bebidas_01",
+        price: 1180,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721162001/MedialunasDelAbuelo/productos/cepita-manzana-caja-100_j1obof.jpg",
         categoryId: 1
       },
       {
         name: "Cepita Multifruta",
-        price: 1480,
-        image: "bebidas_01",
+        price: 1280,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721162001/MedialunasDelAbuelo/productos/cepita-multifruta-caja-100_qehu3c.jpg",
         categoryId: 1
       },
       {
         name: "Cepita Naranja",
-        price: 1480,
-        image: "bebidas_01",
+        price: 1380,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721162000/MedialunasDelAbuelo/productos/cepita-naranja-caja-100_rzbxzu.jpg",
         categoryId: 1
       },
       {
         name: "Coca Lata 354ml",
-        price: 1480,
-        image: "bebidas_01",
+        price: 1000,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721162000/MedialunasDelAbuelo/productos/coca-lata-354ml-100_efatct.jpg",
         categoryId: 1
       },
       {
-        name: "Coca S/Azúcar Vidrio",
+        name: "Coca Lata S/Azúcar 354ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721164563/MedialunasDelAbuelo/productos/coca-sin-azucar-lata354ml-100_h4xv44.jpg",
         categoryId: 1
       },
       {
-        name: "Coca Vidrio 350ml",
+        name: "Coca Original Vidrio 350ml",
+        price: 1200,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163043/MedialunasDelAbuelo/productos/coca-original-botella350ml-100_djofze.jpg",
+        categoryId: 1
+      },
+      {
+        name: "Coca S/Azúcar Vidrio 350ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163044/MedialunasDelAbuelo/productos/coca-sin-azucar-botella350ml-100_nh18nt.jpg",
         categoryId: 1
       },
       {
         name: "Estancia Lima Limón",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163881/MedialunasDelAbuelo/productos/estancia-lima-lim%C3%B3n-100_iufsvl.jpg",
         categoryId: 1
       },
       {
         name: "Estancia Naranja",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163881/MedialunasDelAbuelo/productos/estancia-naranja-100_mxywzj.jpg",
         categoryId: 1
       },
       {
         name: "Estancia Pomelo",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163882/MedialunasDelAbuelo/productos/estancia-pomelo-100_ayusre.jpg",
         categoryId: 1
       },
       {
         name: "Estancia Naranja Durazno",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163881/MedialunasDelAbuelo/productos/estancia-naranaj-durazno-100_mfh8zm.jpg",
         categoryId: 1
       },
       {
-        name: "Estancia Naranja Frutilla",
+        name: "Estancia Frutilla Naranja",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163882/MedialunasDelAbuelo/productos/estancia-frutilla-naranja-100_kyf8w0.jpg",
         categoryId: 1
       },
       {
-        name: "Estancia Naranja Maracuyá",
+        name: "Estancia Maracuyá Naranja",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721163882/MedialunasDelAbuelo/productos/estancia-maracuy%C3%A1-naranja-100_fdt56x.jpg",
         categoryId: 1
       },
       {
-        name: "Fanta Vidrio",
+        name: "Fanta Lata 354ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721165103/MedialunasDelAbuelo/productos/fanta-lata354ml-100_jzctvh.jpg",
         categoryId: 1
       },
       {
-        name: "Coca Lata S/Azúcar",
+        name: "Fanta Vidrio 350ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721165103/MedialunasDelAbuelo/productos/fanta-vidrio350ml-100_g0uqgp.jpg",
         categoryId: 1
       },
       {
-        name: "Fanta Lata",
+        name: "Sprite Lata 354ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721165103/MedialunasDelAbuelo/productos/sprite-lata354ml-100_iyk9ba.jpg",
         categoryId: 1
       },
       {
-        name: "Sprite Lata",
+        name: "Tónica Schweppes Lata 354ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721166119/MedialunasDelAbuelo/productos/schweppes-t%C3%B3nica-lata354ml-100_v5qx7f.jpg",
         categoryId: 1
       },
       {
-        name: "Schweppes 354ml",
+        name: "Pomelo Schweppes Lata 354ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721166119/MedialunasDelAbuelo/productos/schweppes-pomelo-lata354ml-100_xebenb.jpg",
         categoryId: 1
       },
       {
-        name: "Tónica Schweppes Lata",
+        name: "Tónica Schweppes Vidrio 300ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721166119/MedialunasDelAbuelo/productos/schweppes-t%C3%B3nica-vidrio300ml-100_j8sans.jpg",
         categoryId: 1
       },
       {
-        name: "Pomelo Schweppes Lata",
+        name: "Pomelo Schweppes 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721166119/MedialunasDelAbuelo/productos/schweppes-pomelo-botella500ml-100_fpmv1i.jpg",
         categoryId: 1
       },
       {
-        name: "Tónica Schweppes Vidrio",
+        name: "Monster Lata 473ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167500/MedialunasDelAbuelo/productos/monster-lata473ml-100_jzk3h2.jpg",
         categoryId: 1
       },
       {
-        name: "Monster 473ml",
+        name: "Aquarius Limonada 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167498/MedialunasDelAbuelo/productos/aquarius-liomonada500ml-100_gxelut.jpg",
         categoryId: 1
       },
       {
-        name: "Aquarius Limonada",
+        name: "Aquarius Manzana 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167498/MedialunasDelAbuelo/productos/aquarius-manzana500ml-100_ydtsne.jpg",
         categoryId: 1
       },
       {
-        name: "Aquarius Manzana",
+        name: "Aquarius Naranja 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167498/MedialunasDelAbuelo/productos/aquarius-naranja500ml-100_ctmznw.jpg",
         categoryId: 1
       },
       {
-        name: "Aquarius Naranja",
+        name: "Aquarius Pera 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167498/MedialunasDelAbuelo/productos/aquarius-pera500ml-100_ncbh30.jpg",
         categoryId: 1
       },
       {
-        name: "Aquarius Pera",
+        name: "Aquarius Pomelo 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167498/MedialunasDelAbuelo/productos/aquarius-pomelo500ml-100_gvj5tf.jpg",
         categoryId: 1
       },
       {
-        name: "Aquarrius Pomelo",
+        name: "Aquarius Pomelo Rosado 500ml",
         price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167499/MedialunasDelAbuelo/productos/aquarius-rosado500ml-100_nob3ci.jpg",
         categoryId: 1
       },
       {
-        name: "Aquarius Pomelo Rosado",
+        name: "Aquarius Uva 500ml",
         price: 1480,
-        image: "bebidas_01",
-        categoryId: 1
-      },
-      {
-        name: "Aquarius Uva",
-        price: 1480,
-        image: "bebidas_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721167499/MedialunasDelAbuelo/productos/aquarius-uva500ml-100_dshlmn.jpg",
         categoryId: 1
       },
       {
