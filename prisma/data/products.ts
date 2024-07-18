@@ -242,25 +242,25 @@ export const products = [
       {
         name: "Café C/Leche + 1 factura",
         price: 1480,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-1-factura-100_ru2ddr.jpg",
         categoryId: 2
       },
       {
         name: "Café C/Leche + 1 medialuna",
         price: 1830,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-1-factura-100_ru2ddr.jpg",
         categoryId: 2
       },
       {
         name: "Café C/Leche + 2 facturas",
         price: 1900,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-2-facturas-100_uxxwhy.jpg",
         categoryId: 2
       },
       {
         name: "Café C/Leche + 2 medialunas",
         price: 1900,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-2-facturas-100_uxxwhy.jpg",
         categoryId: 2
       },
       {
