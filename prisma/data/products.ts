@@ -240,57 +240,93 @@ export const products = [
         categoryId: 1
       },
       {
-        name: "Pocillo",
+        name: "Café C/Leche + 1 factura",
         price: 1480,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Darrito",
+        name: "Café C/Leche + 1 medialuna",
         price: 1830,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Café con Leche",
+        name: "Café C/Leche + 2 facturas",
         price: 1900,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Café Lagrima",
+        name: "Café C/Leche + 2 medialunas",
         price: 1900,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Café Doble",
+        name: "Café C/Leche + 1/2 tostado",
         price: 2170,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Café Cortado",
+        name: "Café C/Leche + 2 medialunas JyQ",
         price: 2170,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Submarino",
+        name: "Café C/Leche + Budín Artesanal",
         price: 2700,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Capuccino",
+        name: "Café Lágrima",
         price: 3200,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Capuccino con Crema",
+        name: "Café C/Leche + 1 Alfajor Artesanal",
         price: 3600,
         image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Café Irlandés",
+        price: 3490,
+        image: "cafe_01",
+        categoryId: 2
+      },
+      {
+        name: "Café C/Leche + 1 Arabe de JyQ",
+        price: 3490,
+        image: "cafe_01",
+        categoryId: 2
+      },
+      {
+        name: "Capuccino C/Crema",
+        price: 3490,
+        image: "cafe_01",
+        categoryId: 2
+      },
+      {
+        name: "Capuccino Italiano",
+        price: 3490,
+        image: "cafe_01",
+        categoryId: 2
+      },
+      {
+        name: "Capuccino Amaretti",
+        price: 3490,
+        image: "cafe_01",
+        categoryId: 2
+      },
+      {
+        name: "Capuccino Avellana",
+        price: 3490,
+        image: "cafe_01",
         categoryId: 2
       },
       {
@@ -306,97 +342,139 @@ export const products = [
         categoryId: 2
       },
       {
-        name: "Capuccino Avellana",
+        name: "Capuccino + 3 medialunas",
         price: 3490,
         image: "cafe_01",
         categoryId: 2
       },
       {
-        name: "Capuccino Amaretti",
-        price: 3490,
-        image: "cafe_01",
-        categoryId: 2
-      },
-      {
-        name: "Coffe Hot-Latte Caramelo",
+        name: "Chocolatada en Vaso",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Coffe Hot-Latte Vainilla",
+        name: "Café Cortado Doble",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Coffe Hot-Latte Avellana",
+        name: "Jarrito + 1 factura",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Coffe Hot-Latte Amaretti",
+        name: "Jarrito + 1 medialuna",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Coffe Hot-Latte Dulce de Leche",
+        name: "Jarrito Cortado",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Coffe Hot-Latte Chocolate",
+        name: "Jarrito Lágrima",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Chocolatada",
+        name: "Pocillo Café",
         price: 2340,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Té",
+        name: "Pocillo Cortado",
         price: 1500,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Mate Cocido",
+        name: "Pocillo Lágrima",
         price: 1500,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Té Saborizado",
+        name: "Pocillo + 1 factura",
         price: 1850,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Té Saborizado con Leche",
+        name: "Pocillo + 1 medialuna",
         price: 3800,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Tazon",
+        name: "Promo Chico + 1 medialuna",
         price: 4340,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Adicional Crema",
+        name: "Promo Chico + 2 medialunas",
         price: 400,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Adicional Leche",
+        name: "Promo Mediano + 1 medialuna",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Promo Mediano + 2 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Promo Grande + 1 medialuna",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Promo Grande + 2 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Submarino",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Submarino + 3 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Té",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Té Saborizado",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 2
+      },
+      {
+        name: "Mate Cocido",
         price: 400,
         image: "taza_cafe",
         categoryId: 2
