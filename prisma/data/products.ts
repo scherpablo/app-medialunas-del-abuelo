@@ -242,19 +242,19 @@ export const products = [
       {
         name: "Café Lágrima",
         price: 3200,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861905/MedialunasDelAbuelo/productos/cafe-lagrima-100_qgnu1h.jpg",
         categoryId: 2
       },
       {
         name: "Café Irlandés",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861905/MedialunasDelAbuelo/productos/cafe-irlandes-100_llkuj3.jpg",
         categoryId: 2
       },
       {
         name: "Capuccino C/Crema",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861907/MedialunasDelAbuelo/productos/capuccino-con-crema-100_i2mvhn.jpg",
         categoryId: 2
       },
       {
@@ -266,91 +266,91 @@ export const products = [
       {
         name: "Capuccino Amaretti",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861905/MedialunasDelAbuelo/productos/capuccino-amaretti-100_yoytha.jpg",
         categoryId: 2
       },
       {
         name: "Capuccino Avellana",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861906/MedialunasDelAbuelo/productos/capuccino-avellana-100_v4sfwk.jpg",
         categoryId: 2
       },
       {
         name: "Capuccino Caramelo",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861907/MedialunasDelAbuelo/productos/capuccino-dulce-de-leche-100_r5jqzl.jpg",
         categoryId: 2
       },
       {
         name: "Capuccino Vainilla",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861907/MedialunasDelAbuelo/productos/capuccino-vainilla-100_r2wwjl.jpg",
         categoryId: 2
       },
       {
         name: "Chocolatada en Vaso",
         price: 2920,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861907/MedialunasDelAbuelo/productos/chocolatada-en-vaso-100_uz9vrh.jpg",
         categoryId: 2
       },
       {
         name: "Café Cortado Doble",
         price: 2920,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861905/MedialunasDelAbuelo/productos/cafe-cortado-doble-100_ugjg3h.jpg",
         categoryId: 2
       },
       {
         name: "Jarrito Cortado",
         price: 2920,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861908/MedialunasDelAbuelo/productos/jarrito-cortado-100_vjqyl7.jpg",
         categoryId: 2
       },
       {
         name: "Jarrito Lágrima",
         price: 2920,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861908/MedialunasDelAbuelo/productos/jarrito-lagrima-100_bxna1x.jpg",
         categoryId: 2
       },
       {
         name: "Pocillo Café",
         price: 2340,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861921/MedialunasDelAbuelo/productos/pocillo-cafe-100_olerai.jpg",
         categoryId: 2
       },
       {
         name: "Pocillo Cortado",
         price: 1500,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861921/MedialunasDelAbuelo/productos/pocillo-cortado-100_v8n5vo.jpg",
         categoryId: 2
       },
       {
         name: "Pocillo Lágrima",
         price: 1500,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861921/MedialunasDelAbuelo/productos/pocillo-lagrima-100_iymqhz.jpg",
         categoryId: 2
       },
       {
         name: "Submarino",
         price: 400,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721861922/MedialunasDelAbuelo/productos/submarino-100_dhnv7h.jpg",
         categoryId: 2
       },
       {
         name: "Té",
         price: 400,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/Taza-de-T%C3%A9-100_xowigf.jpg",
         categoryId: 2
       },
       {
         name: "Té Saborizado",
         price: 400,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854606/MedialunasDelAbuelo/productos/taza-te-saborizado-2-100_eevrot.jpg",
         categoryId: 2
       },
       {
         name: "Mate Cocido",
         price: 400,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/Taza-de-mate-cocido-100_qhrcpy.jpg",
         categoryId: 2
       },
       {
