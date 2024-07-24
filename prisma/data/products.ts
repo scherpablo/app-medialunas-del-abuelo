@@ -240,67 +240,13 @@ export const products = [
         categoryId: 1
       },
       {
-        name: "Café C/Leche + 1 factura",
-        price: 1480,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-1-factura-100_ru2ddr.jpg",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + 1 medialuna",
-        price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-1-factura-100_ru2ddr.jpg",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + 2 facturas",
-        price: 1900,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-2-facturas-100_uxxwhy.jpg",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + 2 medialunas",
-        price: 1900,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721340345/MedialunasDelAbuelo/productos/cafe-con-leche-2-facturas-100_uxxwhy.jpg",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + 1/2 tostado",
-        price: 2170,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + 2 medialunas JyQ",
-        price: 2170,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + Budín Artesanal",
-        price: 2700,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
         name: "Café Lágrima",
         price: 3200,
         image: "taza_cafe",
         categoryId: 2
       },
       {
-        name: "Café C/Leche + 1 Alfajor Artesanal",
-        price: 3600,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
         name: "Café Irlandés",
-        price: 3490,
-        image: "cafe_01",
-        categoryId: 2
-      },
-      {
-        name: "Café C/Leche + 1 Arabe de JyQ",
         price: 3490,
         image: "cafe_01",
         categoryId: 2
@@ -342,12 +288,6 @@ export const products = [
         categoryId: 2
       },
       {
-        name: "Capuccino + 3 medialunas",
-        price: 3490,
-        image: "cafe_01",
-        categoryId: 2
-      },
-      {
         name: "Chocolatada en Vaso",
         price: 2920,
         image: "taza_cafe",
@@ -355,18 +295,6 @@ export const products = [
       },
       {
         name: "Café Cortado Doble",
-        price: 2920,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Jarrito + 1 factura",
-        price: 2920,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Jarrito + 1 medialuna",
         price: 2920,
         image: "taza_cafe",
         categoryId: 2
@@ -402,61 +330,7 @@ export const products = [
         categoryId: 2
       },
       {
-        name: "Pocillo + 1 factura",
-        price: 1850,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Pocillo + 1 medialuna",
-        price: 3800,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Promo Chico + 1 medialuna",
-        price: 4340,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Promo Chico + 2 medialunas",
-        price: 400,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Promo Mediano + 1 medialuna",
-        price: 400,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Promo Mediano + 2 medialunas",
-        price: 400,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Promo Grande + 1 medialuna",
-        price: 400,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Promo Grande + 2 medialunas",
-        price: 400,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
         name: "Submarino",
-        price: 400,
-        image: "taza_cafe",
-        categoryId: 2
-      },
-      {
-        name: "Submarino + 3 medialunas",
         price: 400,
         image: "taza_cafe",
         categoryId: 2
@@ -478,5 +352,179 @@ export const products = [
         price: 400,
         image: "taza_cafe",
         categoryId: 2
+      },
+      {
+        name: "Café C/Leche + 2 medialunas",
+        price: 1900,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + 3 medialunas",
+        price: 1480,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + 3 facturas",
+        price: 1830,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + 1/2 tostado",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_tostado-100_bxflls.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + 1/2 tostado",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_jugo_tostado-100_s97aw1.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + 2 medialunas JyQ",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835918/MedialunasDelAbuelo/productos/cafe-con-leche_2medialunas-jyq-100_vcza3y.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + 2 medialunas JyQ",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_jugo_2medialunas-jyq-100_g07hvr.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + arabe JyQ",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_arabe_jugo-100_kg8ytw.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + 2 fosforitos JyQ",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_fosforitos-100_rza2qo.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + 2 paninis JyQ",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_jugo_panini-100_vutsp4.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + porción torta",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_torta-100_w0uwzy.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + porción torta",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_torta_jugo-100_c9zyvt.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + yogurt + porción torta",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_torta_yogurt-100_qjydha.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Capuccino + 3 medialunas",
+        price: 1900,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Capuccino + 1/2 tostado",
+        price: 1900,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835928/MedialunasDelAbuelo/productos/capuccino_tostado-100_mhvezx.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Capuccino + arabe JyQ",
+        price: 1900,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835925/MedialunasDelAbuelo/productos/capuccino_arabe-100_hzagcy.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + Budín Artesanal",
+        price: 2700,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + 1 Alfajor Artesanal",
+        price: 3600,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Jarrito + 1 factura",
+        price: 2920,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Jarrito + 1 medialuna",
+        price: 2920,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Pocillo + 1 factura",
+        price: 1850,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Pocillo + 1 medialuna",
+        price: 3800,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Promo Chico + 1 medialuna",
+        price: 4340,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Promo Chico + 2 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Promo Mediano + 1 medialuna",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Promo Mediano + 2 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Promo Grande + 1 medialuna",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Promo Grande + 2 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 3
+      },
+      {
+        name: "Submarino + 3 medialunas",
+        price: 400,
+        image: "taza_cafe",
+        categoryId: 3
       },
 ]
