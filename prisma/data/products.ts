@@ -356,19 +356,19 @@ export const products = [
       {
         name: "Café C/Leche + 2 medialunas",
         price: 1900,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/cafe-con-leche_2medialunas-100_e0bfbr.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + 3 medialunas",
         price: 1480,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/cafe-con-leche_3medialunas-100_dvwldy.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + 3 facturas",
         price: 1830,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/cafe-con-leche_3facturas-100_hymbci.jpg",
         categoryId: 3
       },
       {
@@ -434,7 +434,7 @@ export const products = [
       {
         name: "Capuccino + 3 medialunas",
         price: 1900,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/capuccino_3medialunas-100_f4uy94.jpg",
         categoryId: 3
       },
       {
@@ -464,25 +464,37 @@ export const products = [
       {
         name: "Jarrito + 1 factura",
         price: 2920,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854606/MedialunasDelAbuelo/productos/jarrito_1factura-100_xjvsgs.jpg",
         categoryId: 3
       },
       {
         name: "Jarrito + 1 medialuna",
         price: 2920,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/jarrito_1medialuna-100_tmzf7y.jpg",
         categoryId: 3
       },
       {
         name: "Pocillo + 1 factura",
         price: 1850,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/pocillo_1factura-100_irhx0y.jpg",
         categoryId: 3
       },
       {
         name: "Pocillo + 1 medialuna",
         price: 3800,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854606/MedialunasDelAbuelo/productos/pocillo_1medialuna-100_l49uka.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Taza + 1 factura",
+        price: 3800,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/taza-cafe-con-leche_1factura-100_mmvqm9.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Taza + 1 medialuna",
+        price: 3800,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/taza-cafe-con-leche_1medialuna-100_gmdfey.jpg",
         categoryId: 3
       },
       {
@@ -524,7 +536,7 @@ export const products = [
       {
         name: "Submarino + 3 medialunas",
         price: 400,
-        image: "taza_cafe",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/submarino_3medialunas-100_iuwrjt.jpg",
         categoryId: 3
       },
 ]
