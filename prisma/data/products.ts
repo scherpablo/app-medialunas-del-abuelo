@@ -260,7 +260,7 @@ export const products = [
       {
         name: "Capuccino Italiano",
         price: 3490,
-        image: "cafe_01",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721862593/MedialunasDelAbuelo/productos/capuccino-italiano-100_q0mgji.jpg",
         categoryId: 2
       },
       {
