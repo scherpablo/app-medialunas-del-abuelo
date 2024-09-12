@@ -338,7 +338,7 @@ export const products = [
       {
         name: "Té",
         price: 400,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/Taza-de-T%C3%A9-100_xowigf.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726171934/MedialunasDelAbuelo/productos/taza-de-te-100_ycw43v.jpg",
         categoryId: 2
       },
       {
@@ -350,55 +350,55 @@ export const products = [
       {
         name: "Mate Cocido",
         price: 400,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/Taza-de-mate-cocido-100_qhrcpy.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726171934/MedialunasDelAbuelo/productos/taza-mate-cocido-100_w4udcu.jpg",
         categoryId: 2
       },
       {
         name: "Café C/Leche + 2 medialunas",
         price: 1900,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/cafe-con-leche_2medialunas-100_e0bfbr.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726173573/MedialunasDelAbuelo/productos/cafe-con-leche-2-medialunas-100_svxyii.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + 3 medialunas",
         price: 1480,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/cafe-con-leche_3medialunas-100_dvwldy.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726173574/MedialunasDelAbuelo/productos/cafe-con-leche-3-medialunas-100_jh2abv.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + 3 facturas",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/cafe-con-leche_3facturas-100_hymbci.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726173574/MedialunasDelAbuelo/productos/cafe-con-leche-3-facturas-100_qaqrvd.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + 1/2 tostado",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_tostado-100_bxflls.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726173574/MedialunasDelAbuelo/productos/cafe-con-leche-1-tostado-100_arwbse.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + jugo + 1/2 tostado",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_jugo_tostado-100_s97aw1.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174919/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-tostado-100_b8muii.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + 2 medialunas JyQ",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835918/MedialunasDelAbuelo/productos/cafe-con-leche_2medialunas-jyq-100_vcza3y.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174918/MedialunasDelAbuelo/productos/cafe-con-leche-2-medialunas-jyq-100_fmzgan.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + jugo + 2 medialunas JyQ",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_jugo_2medialunas-jyq-100_g07hvr.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174919/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-2-medialunas-jyq_1-100_pztesq.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + jugo + arabe JyQ",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_arabe_jugo-100_kg8ytw.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174918/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-arabe-jyq-100_jgw4ce.jpg",
         categoryId: 3
       },
       {
