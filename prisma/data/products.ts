@@ -404,25 +404,25 @@ export const products = [
       {
         name: "Café C/Leche + jugo + 2 fosforitos JyQ",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_fosforitos-100_rza2qo.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726175884/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-fosforitos-100_fbpzby.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + jugo + 2 paninis JyQ",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835919/MedialunasDelAbuelo/productos/cafe-con-leche_jugo_panini-100_vutsp4.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726175884/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-paninis-100_iexhxd.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + porción torta",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_torta-100_w0uwzy.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726175883/MedialunasDelAbuelo/productos/cafe-con-leche-porcion-de-torta-100_czxndh.jpg",
         categoryId: 3
       },
       {
         name: "Café C/Leche + jugo + porción torta",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_torta_jugo-100_c9zyvt.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726175883/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-porcion-de-torta-100_vikgvq.jpg",
         categoryId: 3
       },
       {
