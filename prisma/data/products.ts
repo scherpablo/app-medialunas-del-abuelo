@@ -366,6 +366,12 @@ export const products = [
         categoryId: 3
       },
       {
+        name: "Café C/Leche + 2 facturas",
+        price: 1830,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726182428/MedialunasDelAbuelo/productos/cafe-con-leche-2-facturas-100_fdupby.jpg",
+        categoryId: 3
+      },
+      {
         name: "Café C/Leche + 3 facturas",
         price: 1830,
         image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726173574/MedialunasDelAbuelo/productos/cafe-con-leche-3-facturas-100_qaqrvd.jpg",
@@ -428,7 +434,19 @@ export const products = [
       {
         name: "Café C/Leche + yogurt + porción torta",
         price: 1830,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835924/MedialunasDelAbuelo/productos/cafe-con-leche_torta_yogurt-100_qjydha.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726182428/MedialunasDelAbuelo/productos/cafe-con-leche-yogurt-porcion-torta-100_v7nwla.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + jugo + tostado pan frances",
+        price: 9999,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726182429/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-pan-frances-100_af8knl.jpg",
+        categoryId: 3
+      },
+      {
+        name: "Café C/Leche + yogurt + tostado pan frances",
+        price: 9999,
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726182428/MedialunasDelAbuelo/productos/cafe-con-leche-yogurt-pan-frances-100_qhsclr.jpg",
         categoryId: 3
       },
       {
