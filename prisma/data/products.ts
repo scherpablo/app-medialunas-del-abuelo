@@ -452,19 +452,19 @@ export const products = [
       {
         name: "Capuccino + 3 medialunas",
         price: 1900,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/capuccino_3medialunas-100_f4uy94.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726183400/MedialunasDelAbuelo/productos/capuccino-3-medialunas-100_gbhkz3.jpg",
         categoryId: 3
       },
       {
         name: "Capuccino + 1/2 tostado",
         price: 1900,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835928/MedialunasDelAbuelo/productos/capuccino_tostado-100_mhvezx.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726183400/MedialunasDelAbuelo/productos/capuccino-tostado-100_s271ed.jpg",
         categoryId: 3
       },
       {
         name: "Capuccino + arabe JyQ",
         price: 1900,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721835925/MedialunasDelAbuelo/productos/capuccino_arabe-100_hzagcy.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726183400/MedialunasDelAbuelo/productos/capuccino-pan-arabe-100_pbg0pz.jpg",
         categoryId: 3
       },
       {
