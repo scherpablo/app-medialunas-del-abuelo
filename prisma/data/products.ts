@@ -482,37 +482,37 @@ export const products = [
       {
         name: "Jarrito + 1 factura",
         price: 2920,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854606/MedialunasDelAbuelo/productos/jarrito_1factura-100_xjvsgs.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726680524/MedialunasDelAbuelo/productos/jarrito-1-factura-100_glomqb.jpg",
         categoryId: 3
       },
       {
         name: "Jarrito + 1 medialuna",
         price: 2920,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/jarrito_1medialuna-100_tmzf7y.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726680524/MedialunasDelAbuelo/productos/jarrito-1-medialuna-100_dqfyu7.jpg",
         categoryId: 3
       },
       {
         name: "Pocillo + 1 factura",
         price: 1850,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/pocillo_1factura-100_irhx0y.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726680524/MedialunasDelAbuelo/productos/pocillo-1-factura-100_glly9e.jpg",
         categoryId: 3
       },
       {
         name: "Pocillo + 1 medialuna",
         price: 3800,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854606/MedialunasDelAbuelo/productos/pocillo_1medialuna-100_l49uka.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726680524/MedialunasDelAbuelo/productos/pocillo-1-medialuna-100_pkwvxd.jpg",
         categoryId: 3
       },
       {
         name: "Taza + 1 factura",
         price: 3800,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/taza-cafe-con-leche_1factura-100_mmvqm9.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726680524/MedialunasDelAbuelo/productos/taza-1-factura-100_vbv80a.jpg",
         categoryId: 3
       },
       {
         name: "Taza + 1 medialuna",
         price: 3800,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854605/MedialunasDelAbuelo/productos/taza-cafe-con-leche_1medialuna-100_gmdfey.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726680524/MedialunasDelAbuelo/productos/taza-1-medialuna-100_vuldzn.jpg",
         categoryId: 3
       },
       {
