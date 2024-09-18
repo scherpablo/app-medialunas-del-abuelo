@@ -344,7 +344,7 @@ export const products = [
       {
         name: "Té Saborizado",
         price: 400,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854606/MedialunasDelAbuelo/productos/taza-te-saborizado-2-100_eevrot.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726171934/MedialunasDelAbuelo/productos/taza-de-te-100_ycw43v.jpg",
         categoryId: 2
       },
       {
@@ -554,7 +554,7 @@ export const products = [
       {
         name: "Submarino + 3 medialunas",
         price: 400,
-        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1721854604/MedialunasDelAbuelo/productos/submarino_3medialunas-100_iuwrjt.jpg",
+        image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726681323/MedialunasDelAbuelo/productos/submarino-3-medialunas-100_hzh4wx.jpg",
         categoryId: 3
       },
 ]
