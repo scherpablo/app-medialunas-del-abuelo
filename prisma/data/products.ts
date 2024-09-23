@@ -456,7 +456,7 @@ export const products = [
     categoryId: 3
   },
   {
-    name: "Capuccino + 1/2 tostado",
+    name: "Capuccino + 1/2 tostado JyQ",
     price: 1900,
     image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726183400/MedialunasDelAbuelo/productos/capuccino-tostado-100_s271ed.jpg",
     categoryId: 3
@@ -568,5 +568,119 @@ export const products = [
     price: 400,
     image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113810/MedialunasDelAbuelo/productos/shake-100_nczidz.jpg",
     categoryId: 3
+  },
+  {
+    name: "Café C/Leche + jugo + tostado pan frances",
+    price: 9999,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726182429/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-pan-frances-100_af8knl.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Café C/Leche + jugo + 2 medialunas JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174919/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-2-medialunas-jyq_1-100_pztesq.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Café C/Leche + jugo + 1/2 tostado",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174919/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-tostado-100_b8muii.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Café C/Leche + yogurt + porción torta",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726182428/MedialunasDelAbuelo/productos/cafe-con-leche-yogurt-porcion-torta-100_v7nwla.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Café C/Leche + jugo + arabe JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726174918/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-arabe-jyq-100_jgw4ce.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Capuccino + 1/2 tostado JyQ",
+    price: 1900,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726183400/MedialunasDelAbuelo/productos/capuccino-tostado-100_s271ed.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Capuccino + arabe JyQ",
+    price: 1900,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726183400/MedialunasDelAbuelo/productos/capuccino-pan-arabe-100_pbg0pz.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Café C/Leche + jugo + 2 fosforitos JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726175884/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-fosforitos-100_fbpzby.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Café C/Leche + jugo + 2 paninis JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726175884/MedialunasDelAbuelo/productos/cafe-con-leche-jugo-paninis-100_iexhxd.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Coca Cola + 2 empanadas",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116344/MedialunasDelAbuelo/productos/coca-cola_empandas-100_vmgvn5.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Coca Cola + 2 medialunas JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116344/MedialunasDelAbuelo/productos/coca-cola_medialunas-jyq-100_zod737.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Coca Cola + 2 paninis JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116344/MedialunasDelAbuelo/productos/coca-cola_paninis-100_yeqetm.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Coca Cola + pizza",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116345/MedialunasDelAbuelo/productos/coca-cola_pizza-100_pm8pwk.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Ensalada de Frutas",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116345/MedialunasDelAbuelo/productos/ensalada-de-frutas-100_soyndi.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Exprimido + tostado JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116346/MedialunasDelAbuelo/productos/exprimido_tostado-100_g2t27c.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Milk Shake + tostado JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116347/MedialunasDelAbuelo/productos/milk-shake_tostado-100_ipjvbh.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Porción de Brownie",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116348/MedialunasDelAbuelo/productos/porcion-brownie-100_brzhri.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Submarino + 2 fosforitos JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116348/MedialunasDelAbuelo/productos/submarino_fosforito-100_e0jzqq.jpg",
+    categoryId: 7
+  },
+  {
+    name: "Submarino + 2 medialunas JyQ",
+    price: 1830,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727116349/MedialunasDelAbuelo/productos/submarino_medialunas-100_esc5pq.jpg",
+    categoryId: 7
   },
 ]
