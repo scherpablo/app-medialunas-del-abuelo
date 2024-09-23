@@ -24,7 +24,11 @@ export const categories = [
         name: "Helados"
       },
       {
+        slug: "promociones",
+        name: "Promociones"
+      },
+      {
         slug: "serenisima",
         name: "Serenisima"
-      },
+      }
 ]
