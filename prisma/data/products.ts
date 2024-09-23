@@ -566,7 +566,7 @@ export const products = [
   {
     name: "Shake Frutilla",
     price: 400,
-    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113261/MedialunasDelAbuelo/productos/shake-frutilla-100_myb6sa.jpg",
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113810/MedialunasDelAbuelo/productos/shake-100_nczidz.jpg",
     categoryId: 3
   },
 ]
