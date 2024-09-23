@@ -521,4 +521,52 @@ export const products = [
     image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1726681323/MedialunasDelAbuelo/productos/submarino-3-medialunas-100_hzh4wx.jpg",
     categoryId: 3
   },
+  {
+    name: "Chocolatada",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113260/MedialunasDelAbuelo/productos/chocolatada-100_nq4nie.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Frapuccino",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113260/MedialunasDelAbuelo/productos/frapuccino-100_lkursb.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Frost",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113261/MedialunasDelAbuelo/productos/frost-100_y748zq.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Jugo Naranja",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113260/MedialunasDelAbuelo/productos/jugo-naranja-100_bc4e3b.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Licuado Banana",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113260/MedialunasDelAbuelo/productos/licuado-banana-100_hi1x1o.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Licuado Frutilla",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113260/MedialunasDelAbuelo/productos/licuado-frutilla-100_nhescp.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Milk Shake Frutilla",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113261/MedialunasDelAbuelo/productos/milkshake-100_pzfcuv.jpg",
+    categoryId: 3
+  },
+  {
+    name: "Shake Frutilla",
+    price: 400,
+    image: "https://res.cloudinary.com/dneo9bcez/image/upload/v1727113261/MedialunasDelAbuelo/productos/shake-frutilla-100_myb6sa.jpg",
+    categoryId: 3
+  },
 ]
